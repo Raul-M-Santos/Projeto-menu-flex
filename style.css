@@ -64,7 +64,8 @@ main {
 }
 
 h2 {
-  padding-bottom: 4px;
+  text-align: center;
+  padding: 15px;
 }
 
 p {
@@ -81,6 +82,7 @@ p {
     flex-flow: column;
     text-align: center;
     align-items: center;
+    gap: 5px;
   }
 
   a {
